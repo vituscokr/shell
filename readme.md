@@ -45,5 +45,15 @@ python move_image.py
 실행 시킵니다. 
 
 
+# 폴더안에서 파일명 찾기 
 
 
+find_dir 확인 점검 후 
+
+finename 확인 점검 후 
+
+아래 수행 
+
+```
+python fine_filename.py 
+```
