@@ -15,3 +15,14 @@ filecopy.sh
 
 사용예 
 ./filecopy.sh [파일명]
+
+
+# 파일 비교 
+
+파일명 
+openDiff.sh
+
+파일안에 SOURCE_DIR 과 TARGET_DIR 를 수정해서 사용해야 합니다. 
+
+사용예 
+./openDiff.sh [파일명]
